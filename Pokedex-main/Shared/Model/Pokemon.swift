@@ -1,3 +1,10 @@
+//
+//  Pokemon.swift
+//  PokedexSwifttUI
+//
+//  Created by Mac User on 11/11/22.
+//
+
 import Foundation
 
 struct Pokemon: Decodable, Identifiable {
